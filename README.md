@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhrumil1717
+- 👋 Hi, I’m Dhrumil
 - 👀 I’m interested in developing iOS applications.
 - 🌱 I’m currently learning SwiftUI  and UIKit.
 - 💞️ I’m looking to collaborate on iOS projects.
